@@ -445,6 +445,10 @@
 		<Unit filename="../PokittoLib/Pokitto/POKITTO_SIM/tinydir/tinydir.h" />
 		<Unit filename="../PokittoLib/Pokitto/Pokitto.h" />
 		<Unit filename="../PokittoLib/Pokitto/Pokitto_settings.h" />
+		<Unit filename="src/Mode15.cpp" />
+		<Unit filename="src/My_settings.h" />
+		<Unit filename="src/monkey16.h" />
+		<Unit filename="src/pokitto_icon.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
